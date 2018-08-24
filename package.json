@@ -1,0 +1,27 @@
+{
+  "name": "shop",
+  "version": "1.0.0",
+  "description": "Atividade 2 de Topicos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alefESE/Shop-TEC.git"
+  },
+  "keywords": [
+    "UFPB",
+    "Node",
+    "ecommerce"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alefESE/Shop-TEC.git/issues"
+  },
+  "homepage": "https://github.com/alefESE/Shop-TEC.git#readme",
+  "dependencies": {
+    "mime": "^2.3.1"
+  }
+}
