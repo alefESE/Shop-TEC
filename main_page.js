@@ -43,7 +43,7 @@ function load_categories(all_categories){
         var li = document.createElement("li");  
         li.className = "categoria";
 
-        var a = document.createElement("h3");
+        var a = document.createElement("a");
         a.innerHTML = all_categories[i].name;
         a.href = "#";
 
